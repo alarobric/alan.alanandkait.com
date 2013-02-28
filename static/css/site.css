@@ -1,0 +1,57 @@
+/*
+https://kuler.adobe.com/#create/fromacolor
+green 59532F
+blue 7BA69A
+beige F5D799
+orange BF6211
+red 8C2703
+*/
+
+body {
+	padding-bottom: 40px;
+	padding-top: 60px;
+	background-color: #F5D799;
+}
+
+/* set a max-width for horizontal fluid layout and make it centered */
+.container-fluid {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 960px; /* or 950px */
+}
+
+.sidebar-nav {
+	padding: 9px 0;
+}
+
+.sidebar-nav-fixed {
+	width: 21.97%;
+	max-width: 208px;
+	position: fixed;
+	top: 60px;
+}
+
+@media (max-width: 767px) { 
+	.sidebar-nav-fixed {
+		position: static;
+		width: auto;  
+		max-width: none;
+	}
+}
+
+@media (max-width: 979px) { 
+	.sidebar-nav-fixed {
+		top: 70px;
+	}
+
+	/* Enable use of floated navbar text */
+	.navbar-text.pull-right {
+		float: none;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+}
+
+h1, h2, h3 {
+	color: #FFA800;
+}

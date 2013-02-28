@@ -1,0 +1,9 @@
+README for alarobric - my personal site
+
+Just started - remember to use 
+source ~/.virtualenvs/django/bin/activate to start virtualenv
+
+pip for installing new apps
+save requirements from virtualenv into requirements.txt
+
+can restore with pip install -r requirements.txt or similar

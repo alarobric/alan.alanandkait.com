@@ -1,0 +1,20 @@
+location	type
+Kamloops, BC	Home
+Kingston, ON	Home
+Ottawa, ON	Trip
+Toronto, ON	Trip
+Montreal, QC	Trip
+New York, NY	Trip
+Boston, MA 	Trip
+Rhode Island, RH	Trip
+Connecticut, CT	Trip
+Rochester, NY	Trip
+Washington, DC	Trip
+Niagara Falls, ON	Trip
+Orillia, ON	Trip
+Collingwood, ON	Trip
+London, UK	Trip
+Dartmoor, UK	Trip
+Edmonton, AB	Trip
+Richmond, BC	Home
+Paris, France	Trip
